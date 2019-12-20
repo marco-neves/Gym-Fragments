@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragmented Gym</string>
+    <string name="gym_name">Gym</string>
+    <string name="shop"><u>Shop:</u></string>
+    <string name="inventory"><u>Inventory</u></string>
+    <string name="question">amount?</string>
+    <string name="cancel">Cancel</string>
+    <string name="buy">Buy</string>
+</resources>
